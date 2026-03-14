@@ -114,7 +114,7 @@ namespace IPC2_Practica2
             }
 
             MessageBox.Show(
-                $"✅ PACIENTE ATENDIDO\n\n" +
+                $"PACIENTE ATENDIDO\n\n" +
                 $"Nombre: {atendido.Nombre}\n" +
                 $"Edad: {atendido.Edad}\n" +
                 $"Especialidad: {atendido.Especialidad}\n" +
