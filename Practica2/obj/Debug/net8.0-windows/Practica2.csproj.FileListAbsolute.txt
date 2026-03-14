@@ -1,0 +1,15 @@
+C:\Users\Daniel Predes\Desktop\IPC2_Practica2_202400554\Practica2\bin\Debug\net8.0-windows\Practica2.exe
+C:\Users\Daniel Predes\Desktop\IPC2_Practica2_202400554\Practica2\bin\Debug\net8.0-windows\Practica2.deps.json
+C:\Users\Daniel Predes\Desktop\IPC2_Practica2_202400554\Practica2\bin\Debug\net8.0-windows\Practica2.runtimeconfig.json
+C:\Users\Daniel Predes\Desktop\IPC2_Practica2_202400554\Practica2\bin\Debug\net8.0-windows\Practica2.dll
+C:\Users\Daniel Predes\Desktop\IPC2_Practica2_202400554\Practica2\bin\Debug\net8.0-windows\Practica2.pdb
+C:\Users\Daniel Predes\Desktop\IPC2_Practica2_202400554\Practica2\obj\Debug\net8.0-windows\Practica2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Predes\Desktop\IPC2_Practica2_202400554\Practica2\obj\Debug\net8.0-windows\Practica2.AssemblyInfoInputs.cache
+C:\Users\Daniel Predes\Desktop\IPC2_Practica2_202400554\Practica2\obj\Debug\net8.0-windows\Practica2.AssemblyInfo.cs
+C:\Users\Daniel Predes\Desktop\IPC2_Practica2_202400554\Practica2\obj\Debug\net8.0-windows\Practica2.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Predes\Desktop\IPC2_Practica2_202400554\Practica2\obj\Debug\net8.0-windows\Practica2.sourcelink.json
+C:\Users\Daniel Predes\Desktop\IPC2_Practica2_202400554\Practica2\obj\Debug\net8.0-windows\Practica2.dll
+C:\Users\Daniel Predes\Desktop\IPC2_Practica2_202400554\Practica2\obj\Debug\net8.0-windows\refint\Practica2.dll
+C:\Users\Daniel Predes\Desktop\IPC2_Practica2_202400554\Practica2\obj\Debug\net8.0-windows\Practica2.pdb
+C:\Users\Daniel Predes\Desktop\IPC2_Practica2_202400554\Practica2\obj\Debug\net8.0-windows\Practica2.genruntimeconfig.cache
+C:\Users\Daniel Predes\Desktop\IPC2_Practica2_202400554\Practica2\obj\Debug\net8.0-windows\ref\Practica2.dll

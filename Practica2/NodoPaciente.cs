@@ -7,12 +7,14 @@ namespace IPC2_Practica2
         private int edad;
         private string especialidad;
         private int tiempoAtencion;
+        private NodoPaciente? siguiente;
+
 
         public string Nombre
         {
             set
             {
-                value = nombre;
+                nombre = value;
             }
             get
             {
@@ -24,7 +26,7 @@ namespace IPC2_Practica2
         {
             set
             {
-                value = edad;
+                edad = value;
             }
             get
             {
@@ -35,7 +37,7 @@ namespace IPC2_Practica2
         {
             set
             {
-                value = especialidad;
+                especialidad = value;
             }
             get
             {
@@ -47,7 +49,7 @@ namespace IPC2_Practica2
         {
             set
             {
-                value = tiempoAtencion;
+                tiempoAtencion = value;
             }
             get
             {
@@ -55,12 +57,27 @@ namespace IPC2_Practica2
             }
         }
 
-        public NodoPaciente(string nombre, int edad, string especialidad, int tiempoAtenion)
+        public NodoPaciente? Siguiente
         {
-            Nombre = nombre;
-            Edad = edad;
-            Especialidad = especialidad;
-            TiempoAtencion = tiempoAtencion;
+            set
+            {
+                siguiente = value;
+            }
+            get
+            {
+                return siguiente;
+            }
+        }
+
+        
+
+        public NodoPaciente(string nombre, int edad, string especialidad, int tiempoAtencion)  
+        {
+            this.nombre = nombre;
+            this.edad = edad;
+            this.especialidad = especialidad;
+            this.tiempoAtencion = tiempoAtencion;
+            this.siguiente = null;
         }
     }
 }
